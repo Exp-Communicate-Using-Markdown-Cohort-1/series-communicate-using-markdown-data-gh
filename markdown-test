@@ -1,51 +1,38 @@
+# Markdown Recipe Guide ‍
 
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+## Step 1: Gather Ingredients
 
+Here's a list of what you'll need:
 
-## Horizontal Rules
+- 2 cups flour
+- 1 cup sugar
+- 3 eggs
+- 1/2 cup milk
+- 1 teaspoon vanilla extract
+- 1/2 cup chocolate chips
 
-___
+## Step 2: Mix It Up 
 
----
+1. Preheat the oven to 350 degrees F.
+2. In a large bowl, cream together the butter and sugar until light and fluffy.
+3. Beat in the eggs one at a time, then stir in the vanilla.
+4. In a separate bowl, whisk together the flour and baking soda.
+5. Gradually add the dry ingredients to the wet ingredients, alternating with the milk.
+6. Stir in the chocolate chips.
 
-***
+## Step 3: Bake and Enjoy 
 
+1. Drop by rounded tablespoons onto ungreased baking sheets.
+2. Bake for 10-12 minutes, or until golden brown.
+3. Let cool on the baking sheets for a few minutes before transferring to wire racks to cool completely.
 
-## Typographic replacements
+## Step 4: Optional Image 
 
-Enable typographer option to see result.
+![Chocolate chip cookies](https://example.com/image.jpg)
 
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+## Step 5: Code Example 
 
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,,  -- ---
-
-"Smartypants, double quotes" and 'single quotes'
-
-
-## Emphasis
-
-**This is bold text**
-
-__This is bold text__
-
-*This is italic text*
-
-_This is italic text_
-
-~~Strikethrough~~
-
-
-## Blockquotes
-
-
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
-
+```python
+def bake_cookies(ingredients):
+  # Code to bake cookies using the provided ingredients
+  return delicious_cookies
