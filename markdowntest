@@ -1,0 +1,30 @@
+
+# Step 2: Add an Image
+To add an image, you can use the following Markdown code:
+```markdown
+![Alt Text](URL)
+
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+
+```python
+def greet():
+    print("Hello, World!")
+
+greet()
+
+
+
+# Step 4: Make a Task List
+You can create a task list using checkboxes. Here's an example:
+```markdown
+- [x] Learn Markdown
+- [ ] Add an image
+- [ ] Add a code example
+- [ ] Make a task list
+- [ ] Merge your pull request
+
+
+
+This Markdown document now includes a single code block that demonstrates adding an image, a code example, and a task list. Feel free to modify it further or let me know if you need more assistance.
